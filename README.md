@@ -14,7 +14,7 @@ gem 'active_admin-jquery_inputmask'
 //= require active_admin/inputmask
 ```
 
-**3. Load locale or other [inputmask](https://github.com/dhyegofernando/active_admin-jquery_inputmask/tree/master/vendor/inputmask/dist) file as you want**
+**3. Load locale or other [inputmask](https://github.com/dhyegofernando/formtastic-jquery_inputmask/tree/master/vendor/inputmask/dist) file as you want**
 ```javascript
 //= require active_admin/inputmask/locales/pt-BR
 //= require inputmask/phone-codes/phone-us
